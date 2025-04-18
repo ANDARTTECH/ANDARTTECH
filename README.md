@@ -11,8 +11,7 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   
   <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/ANDARTTECH/ANDARTTECH/ci.yml?branch=main&label=CI" />
   <img alt="Last&nbsp;commit"  src="https://img.shields.io/github/last-commit/ANDARTTECH/ANDARTTECH?color=yellow" />
-  <img alt="License"      src="https://img.shields.io/github/license/ANDARTTECH/ANDARTTECH" />
-  <img alt="Top&nbsp;language" src="https://img.shields.io/github/languages/top/ANDARTTECH/ANDARTTECH" />
+  <img alt="License"      src="https://img.shields.io/github/license/ANDARTTECH/ANDARTTECH?cacheSeconds=60" />
 </div>
 
 
