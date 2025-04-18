@@ -1,4 +1,4 @@
-# ANDART — Full‑Stack Mobile App Studio
+ # ANDART — Full‑Stack Mobile App Studio
 
 **Полный цикл разработки Android и iOS‑приложений — от идеи до релиза**  
 _Исследование • UX/UI‑дизайн • Native (Swift / Kotlin) & React Native • CI/CD и DevOps • Поддержка_
