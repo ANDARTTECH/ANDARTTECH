@@ -19,11 +19,11 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH
-            &theme=algolia
-            &no-frame=true
-            &no-bg=true
-            &column=5
-            &rank=SSS,SS,S,AAA,AA,A"
+            &theme=darkhub      <!-- цвет под GitHub Dark -->
+            &no-frame=true      <!-- убираем рамку -->
+            &no-bg=true         <!-- убираем фон -->
+            &column=5           <!-- 5 трофеев в ряд -->
+            &rank=S,AAA,AA,A"   <!-- показываем только медали -->
        alt="GitHub trophies"/>
 </p>
 
