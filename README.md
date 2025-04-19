@@ -7,23 +7,31 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 <p align="center">
   <img alt="Swift"        src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square"/>
   <img alt="Kotlin"       src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square"/>
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ANDARTTECH?style=social"/>
 </p>
+
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true&bg_color=00000000" width="420" alt="GitHub stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" width="320" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true&bg_color=00000000"
+    width="420"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000"
+    width="320"
+    alt="Top languages"
+  />
 </p>
+
 <!-- GitHub Trophies -->
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A&column=6&margin-w=10&margin-h=15"
-    alt="GitHub trophies"
+    alt="GitHub trophies"
   />
 </p>
-
 ---
 
 ## 👋 О нас
