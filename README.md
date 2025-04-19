@@ -3,38 +3,40 @@
 **Полный цикл разработки Android и iOS‑приложений — от идеи до релиза**  
 _Исследование • UX/UI‑дизайн • Native (Swift / Kotlin) & React Native • CI/CD и DevOps • Поддержка_
 
-<div align="center">
-  <img alt="Swift"        src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
-  <img alt="Kotlin"       src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ANDARTTECH?style=social" />
-  
-  <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/ANDARTTECH/ANDARTTECH/ci.yml?branch=main&label=CI" />
-  <img alt="Last&nbsp;commit"  src="https://img.shields.io/github/last-commit/ANDARTTECH/ANDARTTECH?color=yellow" />
-  <img alt="License"      src="https://img.shields.io/github/license/ANDARTTECH/ANDARTTECH?cacheSeconds=60" />
-  <br/><!-- Новые бейджи -->
-<a href="mailto:info@andart.tech">
-  <img
-    alt="Email"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-blue?style=flat-square"/>
-</a>
-<a href="https://boosty.to/andart">
-  <img
-    alt="Boosty"
-    src="https://img.shields.io/badge/%F0%9F%92%B0%20Boosty-ff694b?style=flat-square"/>
-</a>
-</div>
+<!-- Badges -->
+<p align="center">
+  <img alt="Swift"        src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square"/>
+  <img alt="Kotlin"       src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square"/>
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ANDARTTECH?style=social"/>
+</p>
 <!-- GitHub Stats -->
-<div align="center">
-
-<a href="https://github.com/ANDARTTECH">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" />
-</a>
-<a href="https://github.com/ANDARTTECH">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&bg_color=00000000&hide_border=true" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api
+                 ?username=ANDARTTECH
+                 &show_icons=true
+                 &theme=github_dark
+                 &hide_border=true
+                 &hide_rank=true
+                 &bg_color=00000000"
+           width="420"
+           alt="GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs
+                 ?username=ANDARTTECH
+                 &layout=compact
+                 &langs_count=8
+                 &theme=github_dark
+                 &hide_border=true
+                 &bg_color=00000000"
+           width="320"
+           alt="Top languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
