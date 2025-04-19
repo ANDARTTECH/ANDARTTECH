@@ -24,7 +24,17 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
     src="https://img.shields.io/badge/%F0%9F%92%B0%20Boosty-ff694b?style=flat-square"/>
 </a>
 </div>
+<!-- GitHub Stats -->
+<div align="center">
 
+<a href="https://github.com/ANDARTTECH">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=react&hide_rank=true" />
+</a>
+<a href="https://github.com/ANDARTTECH">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=react" />
+</a>
+
+</div>
 
 ---
 
