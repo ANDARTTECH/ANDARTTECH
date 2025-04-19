@@ -28,10 +28,10 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 <div align="center">
 
 <a href="https://github.com/ANDARTTECH">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=react&hide_rank=true" />
+  <img width="42%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=react&hide_rank=true&hide_border=true" />
 </a>
 <a href="https://github.com/ANDARTTECH">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=react" />
+  <img width="42%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </a>
 
 </div>
