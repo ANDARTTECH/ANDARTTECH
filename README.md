@@ -11,32 +11,11 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ANDARTTECH?style=social"/>
 </p>
 <!-- GitHub Stats -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api
-                 ?username=ANDARTTECH
-                 &show_icons=true
-                 &theme=github_dark
-                 &hide_border=true
-                 &hide_rank=true
-                 &bg_color=00000000"
-           width="420"
-           alt="GitHub stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs
-                 ?username=ANDARTTECH
-                 &layout=compact
-                 &langs_count=8
-                 &theme=github_dark
-                 &hide_border=true
-                 &bg_color=00000000"
-           width="320"
-           alt="Top languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true&bg_color=00000000" width="420" alt="GitHub stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" width="320" alt="Top languages"/>
+</p>
 
 ---
 
