@@ -27,11 +27,9 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A&column=6&margin-w=10&margin-h=15"
-    alt="GitHub trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A&column=6&margin-w=10&margin-h=15" alt="GitHub trophies"/>
 </p>
+
 ---
 
 ## 👋 О нас
