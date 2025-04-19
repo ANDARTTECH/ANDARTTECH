@@ -15,11 +15,11 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   <br/><!-- Новые бейджи -->
 <a href="mailto:info@andart.tech">
   <img alt="Hire me"
-       src="https://img.shields.io/badge/Hire%20me-Email-blue?style=for-the-badge"/>
+       src="https://img.shields.io/badge/Hire%20me-Email-blue?style=flat"/>
 </a>
 <a href="https://boosty.to/andart">
   <img alt="Boosty"
-       src="https://img.shields.io/badge/Sponsor-Boosty-ff694b?style=for-the-badge"/>
+       src="https://img.shields.io/badge/Sponsor-Boosty-ff694b?style=flat"/>
 </a>
 </div>
 
