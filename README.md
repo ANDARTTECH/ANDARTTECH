@@ -18,13 +18,7 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 </p>
 
 <!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SSS,SS,S,AAA"
-    alt="GitHub trophies of ANDARTTECH"
-    style="max-width:100%;height:auto;"
-  />
-</p>
+[![ANDARTTECH trophies](https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=algolia&no-frame=true&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
