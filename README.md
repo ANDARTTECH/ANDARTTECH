@@ -18,7 +18,12 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 </p>
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=darkhub&no-bg=true&no-frame=true&rank=-C,-B,-A,-S,-SS&margin-w=10&margin-h=15"
+  <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH
+            &theme=algolia
+            &no-frame=true
+            &no-bg=true
+            &column=5
+            &rank=SSS,SS,S,AAA,AA,A"
        alt="GitHub trophies"/>
 </p>
 
