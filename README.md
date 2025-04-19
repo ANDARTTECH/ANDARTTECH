@@ -16,6 +16,11 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" width="320" alt="Top languages"/>
 </p>
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=darkhub&no-bg=true&no-frame=true&rank=-C,-B,-A,-S,-SS&margin-w=10&margin-h=15"
+       alt="GitHub trophies"/>
+</p>
 
 ---
 
