@@ -14,12 +14,14 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   <img alt="License"      src="https://img.shields.io/github/license/ANDARTTECH/ANDARTTECH?cacheSeconds=60" />
   <br/><!-- Новые бейджи -->
 <a href="mailto:info@andart.tech">
-  <img alt="Hire me"
-       src="https://img.shields.io/badge/Hire%20me-Email-blue?style=flat"/>
+  <img
+    alt="Email"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-blue?style=flat-square"/>
 </a>
 <a href="https://boosty.to/andart">
-  <img alt="Boosty"
-       src="https://img.shields.io/badge/Sponsor-Boosty-ff694b?style=flat"/>
+  <img
+    alt="Boosty"
+    src="https://img.shields.io/badge/%F0%9F%92%B0%20Boosty-ff694b?style=flat-square"/>
 </a>
 </div>
 
