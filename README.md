@@ -22,8 +22,8 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&…&card_width=260&…" width="260" alt=""/>
 
   <!-- mini Streaks -->
-  <img src="https://streak-stats.demolab.com/?user=ANDARTTECH&…&card_width=260&…" width="260" alt="GitHub Streaks"/>
-</p>
+  <img src="https://streak-stats.demolab.com/?user=ANDARTTECH&theme=github_dark&hide_border=true&card_width=260&date_format=M%20j&mode=weekly"
+     width="260" alt="GitHub Streaks"/>
 
   <!-- Trophy (collapsible) -->
 <details>
