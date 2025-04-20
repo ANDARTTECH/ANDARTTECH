@@ -13,7 +13,8 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_rank=true&hide_border=true&bg_color=00000000&hide=issues,prs" width="420" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide_border=true&card_width=350&bg_color=00000000&border_color=30363d&hide=issues,prs"
+     width="350" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000" width="320" alt="Top languages"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=algolia&no-frame=true&no-bg=true&column=1&title=Commits,Stars,Repositories&rank=SSS,SS,S,AAA,A,AA,B"
