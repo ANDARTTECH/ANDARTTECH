@@ -16,16 +16,13 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 <!-- GitHub Stats + Top Languages + Trophy -->
 <p align="center">
   <!-- mini Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&…"
-       width="350" alt="GitHub stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&…&card_width=260&…" width="260" alt="GitHub stats"/>
 
   <!-- mini Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&…"
-       width="350" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&…&card_width=260&…" width="260" alt=""/>
 
   <!-- mini Streaks -->
-  <img src="https://streak-stats.demolab.com/api?username=ANDARTTECH&theme=github_dark&hide_border=true&card_width=350&date_format=M%20j&mode=weekly"
-       width="350" alt="GitHub Streaks"/>
+  <img src="https://streak-stats.demolab.com/?user=ANDARTTECH&…&card_width=260&…" width="260" alt="GitHub Streaks"/>
 </p>
 
   <!-- Trophy (collapsible) -->
