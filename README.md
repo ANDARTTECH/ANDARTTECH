@@ -15,10 +15,17 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 
 <!-- 📊 Stats  🔝 Top Languages  🔥 Streaks -->
 <p align="center">
-  <!-- mini‑cards row -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide_border=true&card_width=260&bg_color=00000000&border_color=30363d&hide=issues,prs"  width="260" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_title=true&hide_border=true&card_width=260&bg_color=00000000"                                          width="260" alt=""/>
-  <img src="https://streak-stats.demolab.com?user=ANDARTTECH&theme=github_dark&hide_border=true&card_width=260&date_format=M%20j&mode=weekly"                                                           width="260" alt="GitHub Streaks"/>
+  <!-- mini Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide_border=true&card_width=260&bg_color=000000&border_color=30363d&hide=issues,prs"
+       width="260" alt="GitHub Stats"/>
+
+  <!-- mini Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_title=true&hide_border=true&card_width=260&bg_color=000000"
+       width="260" alt=""/>
+
+  <!-- mini Streaks -->
+  <img src="https://streak-stats.demolab.com/?user=ANDARTTECH&theme=github_dark&hide_border=true&card_width=260&date_format=M%20j&mode=weekly"
+       width="260" alt="GitHub Streaks"/>
 </p>
 
 
