@@ -9,6 +9,8 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square"/>
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/ANDARTTECH?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=ANDARTTECH&style=flat-square&color=30363d"
+       alt="Profile views"/>
 </p>
 
 <!-- GitHub Stats + Top Languages + Trophy -->
