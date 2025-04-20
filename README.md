@@ -25,7 +25,7 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 
   <!-- Trophy (collapsible) -->
 <details>
-  <summary>🏆 Мои трофеи</summary>
+  <summary>🛡 Мои трофеи</summary>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=algolia&no-frame=true&no-bg=true&column=1&title=Commits,Stars,Repositories&rank=SSS,SS,S,AAA,A,AA,B"
