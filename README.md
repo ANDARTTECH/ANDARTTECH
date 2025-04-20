@@ -23,6 +23,10 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_title=true&hide_border=true&card_width=350&bg_color=00000000"
        width="350" alt=""/>
 
+       <!-- mini Streaks --> 
+<img src="https://streak-stats.demolab.com/?user=ANDARTTECH&theme=github_dark&hide_border=true&card_width=350&date_format=M%20j&mode=weekly"
+     width="350" alt="GitHub Streaks"/>
+
   <!-- Trophy (collapsible) -->
 <details>
   <summary>🛡 Мои трофеи</summary>
