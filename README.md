@@ -16,16 +16,17 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
 <!-- GitHub Stats + Top Languages + Trophy -->
 <p align="center">
   <!-- mini Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&hide_border=true&card_width=350&bg_color=00000000&border_color=30363d&hide=issues,prs"
+  <img src="https://github-readme-stats.vercel.app/api?username=ANDARTTECH&…"
        width="350" alt="GitHub stats"/>
 
   <!-- mini Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_title=true&hide_border=true&card_width=350&bg_color=00000000"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&…"
        width="350" alt=""/>
 
-       <!-- mini Streaks --> 
-<img src="https://streak-stats.demolab.com/?user=ANDARTTECH&theme=github_dark&hide_border=true&card_width=350&date_format=M%20j&mode=weekly"
-     width="350" alt="GitHub Streaks"/>
+  <!-- mini Streaks -->
+  <img src="https://streak-stats.demolab.com/api?username=ANDARTTECH&theme=github_dark&hide_border=true&card_width=350&date_format=M%20j&mode=weekly"
+       width="350" alt="GitHub Streaks"/>
+</p>
 
   <!-- Trophy (collapsible) -->
 <details>
