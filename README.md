@@ -23,13 +23,16 @@ _Исследование • UX/UI‑дизайн • Native (Swift / Kotli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDARTTECH&layout=compact&langs_count=8&theme=github_dark&hide_title=true&hide_border=true&card_width=350&bg_color=00000000"
        width="350" alt=""/>
 
-  <!-- Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=algolia&no-frame=true&no-bg=true&column=1&title=Commits,Stars,Repositories&rank=SSS,SS,S,AAA,A,AA,B"
-         alt="ANDARTTECH trophies" style="margin-top:-4px">
-  </a>
-</p>
-
+  <!-- Trophy (collapsible) -->
+<details>
+  <summary>🏆 Мои трофеи</summary>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=ANDARTTECH&theme=algolia&no-frame=true&no-bg=true&column=1&title=Commits,Stars,Repositories&rank=SSS,SS,S,AAA,A,AA,B"
+           alt="ANDARTTECH trophies" style="margin-top:-4px">
+    </a>
+  </p>
+</details>
 
 
 
